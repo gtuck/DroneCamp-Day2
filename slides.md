@@ -32,137 +32,155 @@ h1 {
 }
 </style>
 
-# Welcome to Day 2
+# Welcome to Drone Camp Day 2
 
-<br>
-
-**🛸Drone Camp**
-
-### **Day 2**
 *Tuesday, 8 AM–12 PM*
 
 ### Facilitators:
 
 **Garth Tuck and Davina Kamikazi**
----
-title: Drone Camp - Day 2
-subtitle: Mastering Flight Controls & Expedition Prep
-date: 2025-06-10
-theme: default
+
 ---
 
 # Overview 🚀
 
-- Focus: Remote control flight mastery
-- Prep for piloted Drone Expedition missions
-- Practice rotations in the arenas
+* Focus: Remote control flight mastery
+* Prep for piloted Drone Expedition missions
+* Practice rotations in the arenas
 
 ---
 
 # Day 2 Agenda
 
-| Time               | Activity |
-|--------------------|----------|
-| 8:00 - 8:15 AM     | Icebreaker Activity |
-| 8:15 - 8:30 AM     | Recap of Day 1 & Overview of Day 2 |
-| 8:30 - 9:00 AM     | Drone Safety Rules Review |
-| 9:00 - 9:30 AM     | Introduction to Drone Expedition Missions |
-| 9:30 - 10:00 AM    | Practice Session 1 - Remote Flight Drills |
-| 10:00 - 10:15 AM   | Morning Break |
-| 10:15 - 10:45 AM   | Practice Session 2 - Arena Rotations |
-| 10:45 - 11:15 AM   | Practice Session 3 - Team Strategy & Mission Practice |
-| 11:15 - 11:45 AM   | Open Practice + Troubleshooting |
-| 11:45 - 12:00 PM   | Reflection & Wrap-up |
+| Time             | Activity                                              |
+| ---------------- | ----------------------------------------------------- |
+| 8:00 - 8:15 AM   | Icebreaker Activity                                   |
+| 8:15 - 8:30 AM   | Recap of Day 1 & Overview of Day 2                    |
+| 8:30 - 9:00 AM   | Drone Safety Rules Review                             |
+| 9:00 - 9:30 AM   | Introduction to Drone Expedition Missions             |
+| 9:30 - 10:00 AM  | Practice Session 1 - Remote Flight Drills             |
+| 10:00 - 10:15 AM | Morning Break                                         |
+| 10:15 - 10:45 AM | Practice Session 2 - Arena Rotations                  |
+| 10:45 - 11:15 AM | Practice Session 3 - Team Strategy & Mission Practice |
+| 11:15 - 11:45 AM | Open Practice + Troubleshooting                       |
+| 11:45 - 12:00 PM | Reflection & Wrap-up                                  |
 
 ---
 
 # Icebreaker Activity ✈️
 
-## Drone Command Relay
+## Drone Crew Command Challenge
 
-- One student is the "Command Center"
-- One student is the "Pilot"
-- Use Flight Command cards:
-  - Takeoff, Land, Forward, Backward
-  - Left, Right, Up, Down, Flip
-- No hand gestures — voice only!
-- Switch roles after each round
-- Prizes for:
-  - Precision flying
-  - Best teamwork
+* Teams of 2-3: Pilot, Command Center, Spotter
+* Command Center gives **verbal commands** from Command Cards
+* Pilot acts out commands (no drone required)
+* Commands include:
+
+  * Takeoff / Land
+  * Move Forward / Backward / Left / Right
+  * Move Up / Down
+  * Turn Left / Turn Right
+  * Flip (spin in place)
+* Rotate roles every round
 
 ---
 
 # Drone Safety Rules 🚦
 
-- Indoor flight only
-- Safe flight height: **< 10 ft**
-- Clear obstacles & fragile items
-- Pre-flight checks:
-  - Battery
-  - Propellers
-  - Motors & frame
-  - Controller pairing
-- Emergency Stop only when needed
-- Always fly with purpose!
+* Indoor flight only
+* Maintain a Safe flight height
+* Clear obstacles & fragile items
+* Pre-flight checks:
+
+  * Battery
+  * Propellers
+  * Motors & frame
+  * Controller pairing
+* Emergency Stop only when needed
+* Always fly with purpose!
 
 ---
 
-# Expedition Mission Rules 🎯
+# Remote Flight Mission Rules 🎯
 
-- Fly one mission at a time
-- Take off & land at Mission Control between missions
-- Pilot rotates with teammates (Pilot → Mechanic → Spotter)
-- 5 min max per pilot
-- Manual retrieval = 0 points
-- Controlled crash = -25 points
-- No video or photography required
-- Focus on precision flight & returning home
+* Fly one mission at a time
+* Take off & land at Mission Control between missions
+* Pilot rotates with teammates (Pilot → Mechanic → Spotter)
+* 5 min max per pilot
+* Focus on precision flight & returning home
 
 ---
 
-# Example Mission Types
+# Remote Flight Mission Types
 
-- Precision takeoff & landing
-- Navigate to a target zone
-- Fly through hoops or under obstacles
-- Controlled elevation changes
-- Return-to-Home drills
+* Precision takeoff & landing
+* Navigate to a target zone
+* Fly through hoops or under obstacles
+* Controlled elevation changes
+* Return-to-Home drills
+
+---
+
+# Remote Flight Drills Suggestions
+
+* Safe takeoff & landing
+* Elevation control
+* Forward / backward / left / right movement
+* Hover & hold
+* Controlled flips
+* Navigation around props
+* Return-to-Home practice
+
+---
+
+# Flight Log Introduction 📄
+
+## How to use your Flight Log
+
+* You will fill out 1 Flight Log entry after each Practice Session
+* One Flight Log per Team
+* Distribute **Flight Log Handout** now
+
+### What to record:
+
+* Arena & Time Block
+* Missions attempted
+* What worked well
+* What was challenging
+* Any drone issues
+* One thing to try differently next time
+
+**Tip:** This will help you track your progress and prepare for the competition!
 
 ---
 
 # Arena Practice Rotation Plan
 
 ## 9:30 - 10:00 AM
-- Arena 1: Teams 1, 2, 3
-- Arena 2: Teams 4, 5, 6
-- Arena 3: Teams 7, 8, 9
+
+* Arena 1: Teams 1, 2, 3
+* Arena 2: Teams 4, 5, 6
+* Arena 3: Teams 7, 8, 9
 
 ---
+
+# Arena Practice Rotation Plan
 
 ## 10:15 - 10:45 AM
-- Arena 1: Teams 7, 8, 9
-- Arena 2: Teams 1, 2, 3
-- Arena 3: Teams 4, 5, 6
+
+* Arena 1: Teams 7, 8, 9
+* Arena 2: Teams 1, 2, 3
+* Arena 3: Teams 4, 5, 6
 
 ---
+
+# Arena Practice Rotation Plan
 
 ## 10:45 - 11:15 AM
-- Arena 1: Teams 4, 5, 6
-- Arena 2: Teams 7, 8, 9
-- Arena 3: Teams 1, 2, 3
 
----
-
-# Remote Flight Drills Suggestions
-
-- Safe takeoff & landing
-- Elevation control
-- Forward / backward / left / right movement
-- Hover & hold
-- Controlled flips
-- Navigation around props
-- Return-to-Home practice
+* Arena 1: Teams 4, 5, 6
+* Arena 2: Teams 7, 8, 9
+* Arena 3: Teams 1, 2, 3
 
 ---
 
@@ -170,17 +188,15 @@ theme: default
 
 ## Flight Log Entry
 
-- Which missions were easiest / hardest?
-- One thing you want to improve tomorrow
-- Any drone performance issues?
-- What did you learn today?
+* Which missions were easiest / hardest?
+* One thing you want to improve tomorrow
+* Any drone performance issues?
+* What did you learn today?
 
 ---
 
 # See You Tomorrow! 🚁🎉
 
-- Tomorrow: **Coding the Drones** for autonomous flight
-- Bring your enthusiasm & creativity!
-- Recharge your batteries (and the drones too!)
-
----
+* Tomorrow: **Coding the Drones** for autonomous flight
+* Bring your enthusiasm & creativity!
+* Recharge your batteries (and the drones too!)
