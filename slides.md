@@ -199,4 +199,4 @@ h1 {
 
 * Tomorrow: **Coding the Drones** for autonomous flight
 * Bring your enthusiasm & creativity!
-* Recharge your batteries (and the drones too!)
+* Recharge your batteries
